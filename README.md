@@ -13,4 +13,4 @@ Steps:
 4) Ensure the code is readable with appropriate data structures and would be fit for use in production.
 
 Submission:
-1) Please fork this repo and share a link once to jonathan.snape@citywonders.com once the assessment is completed. 
+1) Please fork or download this repo and share a link of the completed activity to jonathan.snape@citywonders.com 
